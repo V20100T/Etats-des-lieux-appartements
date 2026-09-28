@@ -1,0 +1,8 @@
+node_modules
+dist
+dev-dist
+*.local
+# Fichiers Excel réels (données personnelles) : jamais versionnés.
+*.xlsx
+*.xls
+!tests/fixtures/xlsx/exemple.xlsx

@@ -1,0 +1,2 @@
+# Fixtures de compatibilite : figees, a conserver octet pour octet.
+tests/fixtures/** -text

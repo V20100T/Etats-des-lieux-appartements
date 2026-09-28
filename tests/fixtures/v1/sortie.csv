@@ -1,0 +1,48 @@
+﻿schema;section;piece;element;quantite;etat_entree;commentaire_entree;etat_sortie;commentaire_sortie;numero;index_entree;index_sortie;photos_entree;photos_sortie
+edl-csv/1;piece;Equipement de chauffage;Ballon d'eau chaude;1;TB;;KO;Fuite;;;;ph_fixture1;
+edl-csv/1;piece;Equipement de chauffage;Radiateur electrique;1;TB;;B;;;;;;
+edl-csv/1;piece;Equipement de chauffage;Radiateur seche serviettes;1;TB;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Porte d'entrée;1;TB;Bois;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Sols;1;TB;PVC;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Murs;1;TB;Peinture beige;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Plafond;1;TB;Peinture blanche;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Portes intérieures;1;TB;"Salle d'eau
+ Mini éclats de peinture au niveau de la poignée, des 2 cotés";;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Fenêtres cuisine;1;TB;Bois;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Porte fenêtre;1;TB;Double vitrage;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Plinthes;1;TB;Plastiques;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Ventilation;1;TB;VMC;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Interrupteurs;1;TB;5 interrupteurs;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Prises;1;TB;"13 Prises
+ La prise TV ne fonctionne pas c'est normal.";;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Eclairage;1;TB;1 luminaire rond en verre et 2 spots 2 ampoules;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Prise RJ45;1;TB;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Prise téléphone;1;ABS;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Interphone avec combiné;1;TB;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Détecteur de fumée;1;TB;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Evier inox sur meuble;1;B;;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;2 plaques de cuisson électriques;1;B;La led ne fonctionne plus;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Eléments hauts cuisine;1;TB;2 meubles 40X80 IKEA;;;;;;;
+edl-csv/1;piece;Entree coin nuit et cuisine;Etageres aglo;1;B;"3 étagères
+ Celle au dessus des plaques est un peut abimée";;;;;;;
+edl-csv/1;piece;Salle d'eau;Sols;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Murs;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Porte;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Ventilation;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Eclairage;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Joints;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Rangements;1;TB;;;;;;;;
+edl-csv/1;piece;Salle d'eau;Lavabo et robinets;1;TB;;;;;;;;
+edl-csv/1;piece;Elements exterieurs et autres;Terrasse;1;B;"Dalles caillebotis bois et rembarde classée
+ Dalles un peut sâle mais aucune cassée";;;;;;;
+edl-csv/1;piece;Elements exterieurs et autres;Interphone;1;TB;;;;;;;;
+edl-csv/1;piece;Elements exterieurs et autres;Boite aux lettres;1;TB;;;;;;;;
+edl-csv/1;piece;Elements exterieurs et autres;Isolation;1;TB;"Aux normes en vigueur à la rénovation en 2020
+ DPE C";;;;;;;
+edl-csv/1;cle;Clés;Porte d'entrée appartement;1;TB;;;;;;;;
+edl-csv/1;cle;Clés;Porte fenêtre accès terrasse;1;TB;;;;;;;;
+edl-csv/1;cle;Clés;Porte accès immeuble;1;TB;;;;;;;;
+edl-csv/1;cle;Clés;Badge Vigic accès immeuble;1;TB;;;;;;;;
+edl-csv/1;cle;Clés;Boite aux lettre;1;TB;;;;;;;;
+edl-csv/1;compteur;Compteurs;Compteur eau divisionnaire;eau;;;;;101;123,4;150;;
+edl-csv/1;compteur;Compteurs;Electricité;electricite;;;;;;;;;
